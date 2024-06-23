@@ -1,0 +1,3 @@
+[submodule "Godot/addons/RMC Mingleton"]
+	path = Godot/addons/RMC Mingleton
+	url = https://github.com/SamuelAsherRivello/rmc-mingleton-godot.git
