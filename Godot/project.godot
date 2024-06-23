@@ -11,9 +11,14 @@ config_version=5
 [application]
 
 config/name="Godot"
-config/features=PackedStringArray("4.2", "Forward Plus")
+run/main_scene="res://addons/RMC Mingleton/Examples/Example01_Mingleton/Scenes/MingletonExample.tscn"
+config/features=PackedStringArray("4.2", "C#", "Forward Plus")
 config/icon="res://icon.svg"
 
 [dotnet]
 
 project/assembly_name="Godot"
+
+[editor_plugins]
+
+enabled=PackedStringArray("res://addons/RMC Mingleton/plugin.cfg")
