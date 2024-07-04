@@ -11,7 +11,7 @@ config_version=5
 [application]
 
 config/name="Godot"
-run/main_scene="res://addons/RMC Core/Examples/Example02_SpinningCube/Scripts/Runtime/SpinningCubeExample.tscn"
+run/main_scene="res://addons/RMC Mini Mvcs/Examples/02_Advanced/Example01_MultiSceneMini/Scenes/Scene01_Menu.tscn"
 config/features=PackedStringArray("4.2", "C#", "Forward Plus")
 config/icon="res://icon.svg"
 
@@ -21,7 +21,7 @@ project/assembly_name="Godot"
 
 [editor_plugins]
 
-enabled=PackedStringArray("res://addons/RMC Core/plugin.cfg", "res://addons/RMC Mingleton/plugin.cfg", "res://addons/RMC Mini Mvcs/plugin.cfg", "res://addons/gdUnit4/plugin.cfg")
+enabled=PackedStringArray("res://addons/RMC Core/plugin.cfg", "res://addons/RMC Mingleton/plugin.cfg", "res://addons/gdUnit4/plugin.cfg")
 
 [gdunit4]
 
