@@ -11,7 +11,7 @@ config_version=5
 [application]
 
 config/name="Godot"
-run/main_scene="res://addons/RMC Mini Mvcs/Examples/02_Advanced/Example01_MultiSceneMini/Scenes/Scene01_Menu.tscn"
+run/main_scene="res://addons/RMC Mini Mvcs/Examples/02_Advanced/Example01_MultiSceneMini/Scenes/Scene02_Game.tscn"
 config/features=PackedStringArray("4.2", "C#", "Forward Plus")
 config/icon="res://icon.svg"
 
